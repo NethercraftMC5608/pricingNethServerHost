@@ -1,0 +1,4 @@
+Price: FREE
+128MB RAM
+AMD EPYC™
+Shared Storage
